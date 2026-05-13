@@ -124,7 +124,7 @@ This platform is informed by:
 ## Status
 
 > Active development for CIDecode Hackathon 2026 (4–5 July 2026).  
-> Implementation begins post-shortlisting.
+> Prototype development currently underway.
 
 ---
 

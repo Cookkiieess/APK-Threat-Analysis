@@ -104,8 +104,8 @@ GCP Instance (outer wall)
 | Member | Role |
 |--------|------|
 | Vernon | DevSecOps & Cybersecurity — sandbox, patching pipeline, Frida, mitmproxy |
-| Teammate 2 | Backend — web server, REST API, pipeline integration, dashboard |
-| Teammate 3 | AI/ML — LLM report generation, C2 graph visualization, decision engine |
+| Stalon | Backend — web server, REST API, pipeline integration, dashboard |
+| Shaan | AI/ML — LLM report generation, C2 graph visualization, decision engine |
 
 ---
 
